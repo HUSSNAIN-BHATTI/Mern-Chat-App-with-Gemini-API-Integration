@@ -32,10 +32,11 @@ Styled using **Tailwind CSS** for a sleek and responsive UI.
 
 Backend .env:
 
-PORT=5000
-MONGO_URI=your_mongo_uri
-JWT_SECRET=your_jwt_secret
-REDIS_URL=your_redis_connection_url
+1. PORT=5000
+2. MONGO_URI=your_mongo_uri
+3. JWT_SECRET=your_jwt_secret
+4. REDIS_URL=your_redis_connection_url
+5. GEMINI_API_KEY=your_gemini_api_key
 
 Login.jsx:
 
@@ -46,4 +47,3 @@ chat interface:
 ![Screenshot 2025-05-31 181525](https://github.com/user-attachments/assets/f8223a65-4015-4d17-b973-7c1b744c7c10)
 
 
-GEMINI_API_KEY=your_gemini_api_key
